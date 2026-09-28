@@ -4,6 +4,8 @@
 
 Дозвіл компанії на використання матеріалів тестового завдання для публікації проєкту отримано.
 
+**[Переглянути інтерактивний дашборд у Tableau Public](https://public.tableau.com/app/profile/tania.mokliak/viz/Marketing_Campaign_Performance_Dashboard/MarketingCampaignPerformanceDahboard)**
+
 ## Файли
 
 | Файл | Вміст |
